@@ -1,0 +1,1 @@
+import{j as o}from"./index-BOuz-hHw.js";function n(){return o.jsxs("main",{children:[o.jsx("h1",{children:"Title of second blog"}),o.jsx("p",{children:"Content of the second blog"})]})}export{n as default};

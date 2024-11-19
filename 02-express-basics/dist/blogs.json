@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "LLMs and Code",
+    "summary": "Coding has never been easier! My thoughts about ai tools and the help they provide to developers."
+  },
+  {
+    "id": 2,
+    "title": "Makefiles, A useful tool",
+    "summary": "Introduction to Makefiles and how to use them in your projects."
+  }
+]
